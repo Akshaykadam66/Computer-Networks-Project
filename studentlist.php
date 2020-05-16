@@ -11,7 +11,7 @@
 ?>
 <html>
 <body>
-	<form method="POST" action="smtp.py">
+	<form method="POST" action="mail.php">
         
 	<label><b>Enter Recepeient EmailID</b></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <input type="text" value={{request.form.username}} name="txtemailid"  placeholder="Enter Emialid" required/>
