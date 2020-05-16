@@ -6,7 +6,7 @@ The student just his uploads his information, the uploaded info is taken to the 
 basically a company hiring the students.\
 After going through the info the company can then hire the student and then send a confirmation mail.
 
-##Tools and Technology Used:\
+## Tools and Technology Used:\
 * **TCP** - Communication protocol between client and server
 * **Socket Programming** - Interface for interprocess communication between applications
 * **SMTP** - Simple Mailing protocol used to send mails.
